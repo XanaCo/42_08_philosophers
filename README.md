@@ -1,4 +1,4 @@
-# 42_08_philosophers
+# 42_Philosophers
 
 ## Overview
 
