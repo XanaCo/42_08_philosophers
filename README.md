@@ -1,10 +1,16 @@
-# 42_Philosophers
+
+<div align=center>
+<img src=https://github.com/Xanaco/42_00_Ressources/blob/main/philosophersm.png alt=Xanaco's 42Project Badge/>
+<h2>Final score</h2>
+<img src=https://github.com/Xanaco/42_00_Ressources/blob/main/125Grade.png alt=Xanaco's 42Project Score/>
+<h4>Completed + Bonus</h4>
+</div>
 
 ## Overview
 
 The "Philosophers" project is a multi-threading and synchronization exercise commonly found in computer science and programming courses, including the curriculum at 42 School. It is inspired by the classic dining philosophers problem, which is a thought experiment in concurrent programming. In this project, students are tasked with implementing a solution to this problem using multithreading and ensuring that the philosophers can dine without conflicts or deadlocks.
 
-The central theme revolves around a group of philosophers who must alternate between thinking and eating, using forks as their shared resources. The challenge is to coordinate these actions in a way that avoids conflicts and ensures the philosophers don't go hungry.
+The central theme revolves around a group of philosophers who must alternate between thinking and eating, using forks as their shared resources. The challenge is to coordinate these actions in a way that avoids conflicts and ensures the philosophers don't go hungry and don't die.
 
 ## Key Components
 
